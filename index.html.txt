@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Влияние соцсетей на общественное мнение</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>📱 Соцсети и общественное мнение</h1>
+    <p>Учебный проект | [Ваше ФИО], [Группа/ВУЗ]</p>
+  </header>
+  <nav>
+    <a href="#theory">Теория</a>
+    <a href="#data">Данные</a>
+    <a href="#cases">Кейсы</a>
+    <a href="#methods">Методология</a>
+  </nav>
+  <main>
+    <section id="theory">
+      <h2>🔍 Механизмы влияния</h2>
+      <p>Здесь ваш контент...</p>
+    </section>
+    <!-- Остальные секции -->
+  </main>
+  <footer>
+    <small>Источники: <a href="#sources">список литературы</a> | 2026</small>
+  </footer>
+</body>
+</html>
